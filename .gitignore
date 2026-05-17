@@ -1,6 +1,6 @@
 # Large Dataset Files
 AIML Dataset.csv
-data.csv
+*.csv
 
 # Python Environment
 env/
